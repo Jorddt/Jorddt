@@ -1,4 +1,7 @@
-### Hi there 👋
+### hey you, Homo.
+      Dit is een leer test van mezelf👋
+
+Het is simpelweg mijn methode om te leren
 
 <!--
 **Jorddt/Jorddt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
